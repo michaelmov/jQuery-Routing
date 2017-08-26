@@ -1,8 +1,8 @@
 # jQuery Routing 
 
-This is a simple test to try out SammyJS vs my own custom router. 
+A simple jQuery router designed to check for location hash and replace the contents of a provided container with new content from a specified html partial. 
 
 To run locally with browser-sync (if preferred, of course):
 ```bash
-$browser-sync start --server --files "./*.html" "styles/*.css" "js/*.js"
+$ npm start
 ```
